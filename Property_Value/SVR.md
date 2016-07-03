@@ -1,7 +1,6 @@
 ##支持向量機回歸分析: Property value prediction
 
 此檔案使用scikit-learn 機器學習套件裡的SVR演算法，來達成波士頓房地產價錢預測
-https://github.com/JeanWU/property_value/blob/master/app/SVR.ipynb
 
 
 ## (一)引入函式庫及內建波士頓房地產資料庫

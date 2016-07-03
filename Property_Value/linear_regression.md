@@ -1,8 +1,6 @@
 ##線性回歸分析: Property value prediction
 
 此檔案使用scikit-learn 機器學習套件裡的linear regression演算法，來達成波士頓房地產價錢預測
-https://github.com/JeanWU/property_value/blob/master/app/linear%20regression.ipynb
-
 
 1. 資料集：波士頓房產
 2. 特徵：房地產客觀數據，如年份、平面大小
@@ -19,7 +17,7 @@ https://github.com/JeanWU/property_value/blob/master/app/linear%20regression.ipy
 1. `sklearn.datasets`: 用來匯入內建之波士頓房地產資料庫
 2. `sklearn.cross_val_predict`: 使用交叉驗證用來評估辨識準確度
 3. `sklearn.linear_model`: 線性分析之模組
-4. `matplotlib.pyplot`: 用來繪製影像
+4. `matplotlib.pyplot`: 用來繪製影像 
 
 ```python
 from sklearn import datasets
